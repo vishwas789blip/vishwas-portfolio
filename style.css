@@ -1,3 +1,11 @@
+:root {
+--bg-main: #022c22;
+--bg-card: #064e3b;
+--accent: #34d399;
+--accent-2: #22c55e;
+
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -14,6 +22,7 @@ body {
 
 /* ================= NAVBAR ================= */
 nav {
+  background-color: black;
   position: fixed;
   width: 100%;
   padding: 1rem 1.5rem;
